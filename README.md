@@ -1,16 +1,16 @@
 <div style="text-align:center;">
 
-# Template Readme
-A template that contains all the basic formatting for a project. It is used for creating new repos without having to specify each thing once again. Its for basic repositories. Feel free to clone it or use it for your own open source projects.
+# Trade Ninja
+An automated trading system for stocks and cryptocurrencies. 
 
-[View Demo](google.com) |
-[Report bug](google.com) |
-[Request Feature](google.com)
+[View Demo](#) |
+[Report bug](./issues/new?template=bug_report) |
+[Request Feature](./issues/new?template=feature_request)
 
 
-![Static Badge](https://img.shields.io/badge/Project_Name-Project_Template-%233CB371?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Project_Name-Trade_Ninja-%233CB371?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/status-development-dodgerblue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/version-1.0-%233CB371?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/version-0.0-%233CB371?style=for-the-badge)
 </div>
 
 
@@ -20,9 +20,6 @@ Note that features should be things that already exist in the project not things
 - Feature number 1
 - Feature number 2
 - Feature number 3
-
-
-
 
 
 ## 🚀 Getting Started
